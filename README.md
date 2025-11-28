@@ -62,4 +62,4 @@ README.md                      # Главный файл (этот докуме�
 ## Контакты
 
 GitHub: [@DianaFazulzyanova](https://github.com/DianaFazulzyanova)  
-Email: diana@example.com
+Email: dianaasgatevna@gmail.com
